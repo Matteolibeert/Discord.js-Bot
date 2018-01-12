@@ -10,5 +10,8 @@ If u release a bot with this base credit me "MatteoLibeert"
 
 
 
+
 How to make this bot online ?
 Open up a CMD window navigate in  to your folder where the bot is located. Then type in node app.js
+
+Go to my site http://matteolibeert.cf/
